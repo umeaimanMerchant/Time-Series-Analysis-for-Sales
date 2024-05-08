@@ -1,5 +1,7 @@
 # Time-Series-Analysis-for-Sales
 
+In this project we will analyse sales of Nondurable Goods such as Beer, Wine, and Distilled Alcoholic Beverages over duration of time.
+
 ## Outline
 - [ 1 - Packages](#1)
 - [ 2 - Sales dataset](#2)
@@ -14,7 +16,8 @@
 <img align="left" src="./images/sales.png" >
 
 ## Components in Sales Data
-<img align="left" src="./images/.png"  >
+<img src="./images/components.png">
+
 
 ## Forecast
 <img align="left" src="./images/forecast.png"  >
