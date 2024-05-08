@@ -11,10 +11,10 @@
 - [ 4 - Model Selection and Future Forecast](#4)
 
 ## Sales Data
-<img align="left" src="./images/sales.png"     style=" width:40px;  " >
+<img align="left" src="./images/sales.png" >
 
 ## Components in Sales Data
-<img align="left" src="./images/.png"     style=" width:40px;  " >
+<img align="left" src="./images/.png"  >
 
 ## Forecast
-<img align="left" src="./images/forecast.png"     style=" width:40px;  " >
+<img align="left" src="./images/forecast.png"  >
